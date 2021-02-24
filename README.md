@@ -1,5 +1,6 @@
 # CE888-7-SP
 **Assignment 1**
 
-I have attached both .py and .ipynb file. 
-They both have the link to the dataset inside it. The dataset is too large for github.
+I have attached both the .py (exe) and .ipynb (jupyter notebook) files. 
+They both have the link to the dataset I used . The dataset was too large for github.
+
