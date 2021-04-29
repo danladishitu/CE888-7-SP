@@ -1,7 +1,10 @@
 
 FairnessInML_2021 jupyter notebook is where I have all my codes implemented. 
+
 The metropolitan police dataset is 74mb too large for GitHub, but I have included a link to download it in the codes.
+
 Kindly click on the link provided to access the dataset.
+
 I have also added the python executable code.
 
 Packages and the version that may be required to run the code:
