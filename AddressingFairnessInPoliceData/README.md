@@ -5,7 +5,7 @@ The metropolitan police dataset is 74mb too large for GitHub, but I have include
 
 Kindly click on the link provided to access the dataset.
 
-I have also added the python executable code.
+I have also added the python code.
 
 Packages and the version that may be required to run the code:
 aif360
